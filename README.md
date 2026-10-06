@@ -1,5 +1,12 @@
 # 👋 Hi, I'm Gopikrishna Ashok
 
+<p align="center">
+  <img
+    src="./assets/contrib-heatmap.svg"
+    alt="GitHub contribution activity"
+  />
+</p>
+
 ### Senior Software Engineer · AWS · DevOps · Generative AI
 
 I build **cloud-native applications, backend services, and AI-powered solutions** using modern engineering practices.
