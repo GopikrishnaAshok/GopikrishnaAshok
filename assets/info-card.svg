@@ -1,0 +1,96 @@
+<svg width="700" height="360" viewBox="0 0 700 360" xmlns="http://www.w3.org/2000/svg">
+
+  <rect width="700" height="360" rx="18" fill="#0d1117"/>
+
+  <!-- Terminal header -->
+  <circle cx="25" cy="25" r="6" fill="#ff5f56"/>
+  <circle cx="45" cy="25" r="6" fill="#ffbd2e"/>
+  <circle cx="65" cy="25" r="6" fill="#27c93f"/>
+
+  <text x="90" y="31"
+        font-family="monospace"
+        font-size="14"
+        fill="#8b949e">
+    gopikrishna@github
+  </text>
+
+  <!-- Command -->
+  <text x="30" y="70"
+        font-family="monospace"
+        font-size="17"
+        fill="#58a6ff">
+    $ whoami
+  </text>
+
+  <text x="30" y="102"
+        font-family="monospace"
+        font-size="22"
+        fill="#ffffff">
+    Gopikrishna Ashok
+  </text>
+
+  <text x="30" y="130"
+        font-family="monospace"
+        font-size="15"
+        fill="#8b949e">
+    Senior Software Engineer
+  </text>
+
+  <!-- Divider -->
+  <line x1="30" y1="150" x2="670" y2="150"
+        stroke="#30363d"/>
+
+  <!-- Skills -->
+  <text x="30" y="180"
+        font-family="monospace"
+        font-size="15"
+        fill="#58a6ff">
+    $ skills
+  </text>
+
+  <text x="30" y="210"
+        font-family="monospace"
+        font-size="15"
+        fill="#c9d1d9">
+    .NET        Node.js       Python
+  </text>
+
+  <text x="30" y="238"
+        font-family="monospace"
+        font-size="15"
+        fill="#c9d1d9">
+    AWS         Docker        CI/CD
+  </text>
+
+  <text x="30" y="266"
+        font-family="monospace"
+        font-size="15"
+        fill="#c9d1d9">
+    GenAI       RAG           Microservices
+  </text>
+
+  <!-- Current focus -->
+  <text x="30" y="300"
+        font-family="monospace"
+        font-size="15"
+        fill="#58a6ff">
+    $ currently_building
+  </text>
+
+  <text x="30" y="328"
+        font-family="monospace"
+        font-size="15"
+        fill="#c9d1d9">
+    AWS + DevOps + Generative AI
+  </text>
+
+  <!-- Cursor -->
+  <rect x="345" y="315" width="9" height="17" fill="#58a6ff">
+    <animate
+      attributeName="opacity"
+      values="1;0;1"
+      dur="1s"
+      repeatCount="indefinite"/>
+  </rect>
+
+</svg>
